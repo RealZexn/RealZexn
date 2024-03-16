@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RealZexn
+- 👋 Hi, I’m @o
 - 👀 I’m interested in game development.
 - 🌱 I’m currently learning C#, Html, Css and Javascript.
 - 📫 How to reach me: @zel.z31 on discord.
